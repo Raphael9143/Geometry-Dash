@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1679284196 source:c:\users\dodin\onedrive\máy tính\the binding of isaac\the binding of isaac\main.cpp
+	"commonFunc.h"
+	"LTexture.h"
+	"Isaac.h"
+	<windows.h>
+
+1679216133 c:\users\dodin\onedrive\máy tính\the binding of isaac\the binding of isaac\commonfunc.h
+	<iostream>
+	<time.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1679283765 source:c:\users\dodin\onedrive\máy tính\the binding of isaac\the binding of isaac\isaac.cpp
+	"Isaac.h"
+
+1679282029 c:\users\dodin\onedrive\máy tính\the binding of isaac\the binding of isaac\isaac.h
+	"commonFunc.h"
+	"LTexture.h"
+
+1679106660 source:c:\users\dodin\onedrive\máy tính\the binding of isaac\the binding of isaac\dot.cpp
+	"Dot.h"
+
+1679106676 c:\users\dodin\onedrive\máy tính\the binding of isaac\the binding of isaac\dot.h
+	"Isaac.h"
+
+1679108295 source:c:\users\dodin\onedrive\máy tính\the binding of isaac\the binding of isaac\renderwindow.cpp
+	"RenderWindow.h"
+
+1679108264 c:\users\dodin\onedrive\máy tính\the binding of isaac\the binding of isaac\renderwindow.h
+	"commonFunc.h"
+
+1679284219 source:c:\users\dodin\onedrive\máy tính\the binding of isaac\the binding of isaac\ltexture.cpp
+	"LTexture.h"
+
+1679216915 c:\users\dodin\onedrive\máy tính\the binding of isaac\the binding of isaac\ltexture.h
+	"commonFunc.h"
+
+1680164165 source:c:\users\dodin\onedrive\máy tính\geometry dash\geometry dash\ltexture.cpp
+	"LTexture.h"
+
+1680164165 c:\users\dodin\onedrive\máy tính\geometry dash\geometry dash\ltexture.h
+	"commonFunc.h"
+
+1683385362 c:\users\dodin\onedrive\máy tính\geometry dash\geometry dash\commonfunc.h
+	<iostream>
+	<time.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1683385300 source:c:\users\dodin\onedrive\máy tính\geometry dash\geometry dash\main.cpp
+	"commonFunc.h"
+	"LTexture.h"
+	"Player.h"
+	<windows.h>
+	"GameMap.h"
+	"Timer.h"
+	"Menu.h"
+
+1683385163 c:\users\dodin\onedrive\máy tính\geometry dash\geometry dash\player.h
+	"commonFunc.h"
+	"LTexture.h"
+	<windows.h>
+
+1683385276 source:c:\users\dodin\onedrive\máy tính\geometry dash\geometry dash\player.cpp
+	"Player.h"
+
+1679736619 source:c:\users\dodin\onedrive\máy tính\geometry dash\geometry dash\game.cpp
+	"Game.h"
+
+1679735640 c:\users\dodin\onedrive\máy tính\geometry dash\geometry dash\game.h
+	"commonFunc.h"
+	"LTexture.h"
+	"Player.h"
+
+1679736988 source:c:\users\dodin\onedrive\máy tính\geometry dash\geometry dash\commonfunc.cpp
+	"commonFunc.h"
+
+1679795314 source:c:\users\dodin\onedrive\máy tính\geometry dash\geometry dash\tile.cpp
+	"Tile.h"
+
+1679795305 c:\users\dodin\onedrive\máy tính\geometry dash\geometry dash\tile.h
+	"LTexture.h"
+	"commonFunc.h"
+
+1680532828 source:c:\users\dodin\onedrive\máy tính\geometry dash\geometry dash\gamemap.cpp
+	"GameMap.h"
+
+1682170737 c:\users\dodin\onedrive\máy tính\geometry dash\geometry dash\gamemap.h
+	"commonFunc.h"
+	"LTexture.h"
+	"Player.h"
+
+1681289631 source:c:\users\dodin\onedrive\máy tính\geometry dash\geometry dash\timer.cpp
+	"Timer.h"
+
+1681289017 c:\users\dodin\onedrive\máy tính\geometry dash\geometry dash\timer.h
+	"commonFunc.h"
+	"LTexture.h"
+
+1683162243 source:c:\users\dodin\onedrive\máy tính\geometry dash\geometry dash\menu.cpp
+	"Menu.h"
+
+1682952496 c:\users\dodin\onedrive\máy tính\geometry dash\geometry dash\menu.h
+	"commonFunc.h"
+	"LTexture.h"
+
